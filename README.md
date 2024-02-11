@@ -1,6 +1,6 @@
 # DiffOcclusion: Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing
 
-This repository contains the code for the paper "Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing" by Shiqing Wei, Bolun Dai, Rooholla Khorrambakht, Prashanth Krishnamurthy, and Farshad Khorrami, accpted at IEEE Robotics and Automation Letters (RA-L). 
+This repository contains the code for the paper "Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing" by Shiqing Wei, Bolun Dai, Rooholla Khorrambakht, Prashanth Krishnamurthy, and Farshad Khorrami, published in IEEE Robotics and Automation Letters (RA-L). 
 
 Check our video [here](https://youtu.be/su0RPjcBwOc).
 
@@ -58,16 +58,14 @@ Then, set `"active": 1` in `collision_cbf_config` of `test_settings_001.json` (o
 ```
 "collision_cbf_config":{
     "active": 1,
-    "cbf_value_record": 1,
-    "barrier_gamma": 5,
-    "alpha_offset": 1.03
+    ...
 }
 ```
 
 ## Citation
 If you use this code for your research, please cite our paper:
 ```
-To appear in IEEE Robotics and Automation Letters (RA-L). 
+To appear soon. 
 ```
 <!-- ```
 @article{wei2021differentiable,
