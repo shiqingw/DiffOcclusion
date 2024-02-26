@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper "Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing" by Shiqing Wei, Bolun Dai, Rooholla Khorrambakht, Prashanth Krishnamurthy, and Farshad Khorrami, published in IEEE Robotics and Automation Letters (RA-L). 
 
-Check our video [here](https://youtu.be/su0RPjcBwOc).
+Take a look at our [paper](https://ieeexplore.ieee.org/document/10430369) and [video](https://youtu.be/su0RPjcBwOc)!
 
 ## Pre-requisites/Installation
 Create a new conda environment (with python3.8) and install the packages by running the following command:
@@ -65,14 +65,14 @@ Then, set `"active": 1` in `collision_cbf_config` of `test_settings_001.json` (o
 ## Citation
 If you use this code for your research, please cite our paper:
 ```
-To appear soon. 
-```
-<!-- ```
-@article{wei2021differentiable,
-  title={Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing},
+@ARTICLE{10430369,
   author={Wei, Shiqing and Dai, Bolun and Khorrambakht, Rooholla and Krishnamurthy, Prashanth and Khorrami, Farshad},
-  journal={IEEE Robotics and Automation Letters},
-  year={2021},
-  publisher={IEEE}
-}
-``` -->
+  journal={IEEE Robotics and Automation Letters}, 
+  title={DiffOcclusion: Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing}, 
+  year={2024},
+  volume={9},
+  number={4},
+  pages={3235-3242},
+  keywords={Visualization;Optimization;Visual servoing;Shape;Robot sensing systems;Systematics;Robot kinematics;Visual servoing;visual tracking;robot safety;sensor-based control},
+  doi={10.1109/LRA.2024.3364468}}
+```
