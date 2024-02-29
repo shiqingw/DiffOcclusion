@@ -1,6 +1,6 @@
 # DiffOcclusion: Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing
 
-This repository contains the code for the paper "Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing" by Shiqing Wei, Bolun Dai, Rooholla Khorrambakht, Prashanth Krishnamurthy, and Farshad Khorrami, published in IEEE Robotics and Automation Letters (RA-L). 
+This repository contains the code for the paper "DiffOcclusion: Differentiable Optimization Based Control Barrier Functions for Occlusion-Free Visual Servoing" by Shiqing Wei, Bolun Dai, Rooholla Khorrambakht, Prashanth Krishnamurthy, and Farshad Khorrami, published in IEEE Robotics and Automation Letters (RA-L). 
 
 Take a look at our [paper](https://ieeexplore.ieee.org/document/10430369) and [video](https://youtu.be/su0RPjcBwOc)!
 
